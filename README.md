@@ -8,3 +8,14 @@ Follow this guide for this specific LCD screen:
 https://www.waveshare.com/wiki/2inch_LCD_Module
 
 The wave_lib library from the link above will be provided
+
+Parts:
+Xinimark Ina225 Bi-directional Alert Monitor module (link)
+
+Seloky LM2596 DC TO DC Buck Converter (link)
+
+Waveshare 2-inch LCD Screen SPI interface (link)
+
+Breadboard Jumpers (link)
+
+Raspberry pi Zero 2 w (link)
